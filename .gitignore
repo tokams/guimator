@@ -1,0 +1,4 @@
+*.exe
+test.bat
+server.password
+server.address
